@@ -1,0 +1,54 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  padding: 1rem;
+}
+
+.project-name {
+  margin: -0.5rem;
+}
+
+.project-tagline {
+  margin: 0;
+}
+
+.sidebar {
+  background-color: #9afff75e;
+  float: left;
+  padding: 0.75rem 0;
+  position: sticky;
+  top: 0;
+  width: 12rem;
+}
+
+.sidebar a {
+  display: block;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+}
+
+.main-content {
+  margin-left: 12rem;
+}
+
+@media screen and (max-width: 700px) {
+  .sidebar {
+    padding: 0.5rem;
+    position: relative;
+    width: 100%;
+  }
+  .sidebar a {
+    float: left;
+    padding: 0.2rem 0.5rem;
+  }
+  .main-content {
+    margin-left: 0;
+  }
+}
+
+.ma4, .ma7, .ma8 {
+  display: none;
+}
