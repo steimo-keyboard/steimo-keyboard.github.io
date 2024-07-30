@@ -2,7 +2,7 @@
 
 This is a Colemak-DH modification for Steimo keyboard.
 
-Most of the changes are related to the Steimo keyboard layout [functional guidelines](layout.md#functional-guidelines). They involve punctuation, symbols, and [wide keys](glossary.md#wide-keys). Letters and numbers remain unchanged.
+Most of the changes are related to the Steimo keyboard layout [functional guidelines](layout.md#functional-guidelines). They involve punctuation, symbols, and [edge keys](glossary.md#edge-keys). Letters and numbers remain unchanged.
 
 ## Changes
 

@@ -48,7 +48,7 @@ After:
 
 ![](images/changes-3-after.png)
 
-### 4. Arrange the top row keys.
+### 4. Rearrange the top row keys.
 
 This makes the top row of the left-hand and right-hand modules symmetrical. One key is removed in the process.
 

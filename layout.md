@@ -25,18 +25,18 @@ The same physical layout can be used for different countries and languages.
 
 ## Functional Guidelines
 
-* The [center keys](glossary.md#center-keys) should only be used for letters, numbers, punctuation, and symbols.
-* Commonly used punctuation and symbols should be placed in the [center keys](glossary.md#center-keys) (rather than in the three-column module, for example), where possible.
-* The [wide keys](glossary.md#wide-keys) should not be used for letters, numbers, punctuation, and symbols.
+* The [main keys](glossary.md#main-keys) should only be used for letters, numbers, punctuation, and symbols.
+* Commonly used punctuation and symbols should be placed in the [main keys](glossary.md#main-keys) (rather than in the three-column module, for example), where possible.
+* The [edge keys](glossary.md#edge-keys) should not be used for letters, numbers, punctuation, and symbols.
 
-## Example 1: Steimo L-R3 US QWERTY Windows
+## Example: Steimo L-R3 US QWERTY Windows
 
-Commonly used punctuation `'`, `"`, and `-` are not placed in the [center keys](glossary.md#center-keys) yet.
+In this example, note that commonly used punctuation `'`, `"`, and `-` are not yet placed in the [main keys](glossary.md#main-keys).
 
 ![](images/layout-L-R3-qwerty-windows.png)
 
-## Example 2: Steimo L3R US [Colemak-DHS](colemak-dhs.md) Mac
+## Example: Steimo L3R US [Colemak-DHS](colemak-dhs.md) Mac
 
-Commonly used punctuation `'`, `"`, and `-` are placed in the [center keys](glossary.md#center-keys).
+Note that commonly used punctuation `'`, `"`, and `-` are placed in the [main keys](glossary.md#main-keys).
 
 ![](images/layout-L3R-colemak-dhs-mac.png)
