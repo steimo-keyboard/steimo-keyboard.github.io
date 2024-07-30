@@ -1,13 +1,13 @@
 # Glossary
 
-## Center Keys
+## Main Keys
 
-These are keys pictured with a dot below.
+The main keys are the keys pictured with a dot below.
 
 ![](images/modules.png)
 
-## Wide Keys
+## Edge Keys
 
-These are keys pictured with a horizontal line below.
+The edge keys are the keys pictured with a horizontal line below.
 
 ![](images/modules.png)
